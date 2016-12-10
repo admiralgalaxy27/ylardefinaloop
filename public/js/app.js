@@ -11,9 +11,9 @@
       },
       {
         "id":2,
-        "name" : "Adriel Ylarde",
-        "description" : "He is the man who has many nicknames. Jay, Ads, Lards, Adriel, Driel, John, Ady, Ed. Those are what they call him. He is my best friend. He likes to play DOTA 2 and to watch basketball games. Even though he doesn't seem to socialize a lot, he still is friendly.  ",
-        "image" : "img/qsQEkz0o.jpg",
+        "name" : "Reyner John Buenaluz",
+        "description" : "He is the man who has many nicknames. RJ, Rey, Reyn, Ner, J, John, reynskie, Arj. Those are what they call him. He is my oldest cousin. He likes to play DOTA 2 and to watch basketball games. Even though he seems to socialize a lot thus making him famous in the campus  ",
+        "image" : "img/v.jpg",
       },
       {
         "id":3,
