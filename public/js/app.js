@@ -25,7 +25,7 @@
         "id":4,
         "name" : "Carl Adrian Buenaluz",
         "description" : "The guy who just stays inside the house and doesn't want to get out. He plays his laptop all day. I think he became lonely when his mom went to Japan. Still, he is a good guy and is not hot-tempered.",
-        "image" : "img/d.jpg",
+        "image" : "img/b.jpg",
       },
       {
         "id":5,
