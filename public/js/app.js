@@ -433,7 +433,7 @@
       </div>
       <div align="center">
       <button onclick="component.formList()" class="btn waves-effect waves-yellow">Return</button>
-      <button onclick="component.formDesign()" class="btn waves-effect waves-green">Apply</button>
+      <button onclick="component.formDesign()" class="btn waves-effect waves-green">Add</button>
       </div>
 
       `;
