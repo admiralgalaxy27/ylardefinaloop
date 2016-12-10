@@ -415,21 +415,21 @@
       </div>
       <div class="row">
       <div class="input-field col s6 ">
-      <input id="kill2" type="text" class=" vintage">
-      <label for="kill2"><a class="black-text text-lighten-0">(Enter Name...)</a></label>
+      <input id="kill2" type="text"  class="validate">
+      <label for="kill2" data-error="Input Invalid" data-success="&#10004;Input Valid"><a class="black-text text-lighten-0">Enter Name</a></label>
       </div>
       </div>
 
       <div class="row">
       <div class="input-field col s6 ">
-      <input id="kill3" type="text" class="deep-blue darken-5">
-      <label for="kill3"><a class="black-text text-derken-5">(Enter Information...)</a></label>
+      <input id="kill3" type="text" class="validate">
+      <label for="kill3" data-error="Input Invalid" data-success="&#10004;Input Valid"><a class="black-text text-lighten-0">Enter Information</a></label>
       </div>
 
       <div class="row">
       <div class="input-field col s6 ">
-      <input id="kill4" type="text" class="deep-white lighten-1">
-      <label for="kill4"><a class="black-text text-darken-5"> (Enter Picture...)</a></label>
+      <input id="kill4" type="url" class="validate">
+      <label for="kill4" data-error="&times;Input Error" data-success="&#10004;Input Valid"><a class="black-text text-darken-5"> Enter Picture (LINK)</a></label>
       </div>
       <div align="center">
       <button onclick="component.formList()" class="btn waves-effect waves-yellow">Return</button>
