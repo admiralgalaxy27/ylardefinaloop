@@ -2375,3 +2375,165 @@ if (typeof jQuery === 'undefined') {
   })
 
 }(jQuery);
+
+/*"use strict";
+
+  class App{
+    constructor(){
+      this.form = [
+      {
+        "id":1,
+        "name" : "Lyn Berdin",
+        "description" : "We met when we were in second year college at ADDU. My first impression with here was she was shy and intelligent. We became close when we were in fourth year college. Every time we hang out with our friends, we talk a lot. Since then I begin to my develop my feelings for here. I asked her out to join our family outing on March 2016. She agreed and on that evening, I asked her to be my girlfriend. Now, we are in our 6 months. :)",
+        "image" : "img/z.jpg",   
+      },
+      {
+        "id":2,
+        "name" : "Reyner John Buenaluz",
+        "description" : "He is the man who has many nicknames. RJ, Rey, Reyn, Ner, J, John, reynskie, Arj. Those are what they call him. He is my oldest cousin. He likes to play DOTA 2 and to watch basketball games. Even though he seems to socialize a lot thus making him famous in the campus  ",
+        "image" : "img/v.jpg",
+      },
+      {
+        "id":3,
+        "name" : "April Joy Buenaluz",
+        "description" : "She is one of my favorite cousin. She likes to share secrets with me and I feel comfortable having a conversation with her. We haven't had any serious conflicts because we get along with each other most of the time. ",
+        "image" : "img/a.jpg",
+      },
+      {
+        "id":4,
+        "name" : "Carl Adrian Buenaluz",
+        "description" : "The guy who just stays inside the house and doesn't want to get out. He plays his laptop all day. I think he became lonely when his mom went to Japan. Still, he is a good guy and is not hot-tempered.",
+        "image" : "img/b.jpg",
+      },
+      {
+        "id":5,
+        "name" : "Angelo Pereira",
+        "description" : "My classate in AdDU. He taught me some magnificent tricks in Dota. We just became friends in our last year in college and since then we always hang out with our friends. He is also very skilled in Dota. He joined many local tournaments and won. GGWP",
+        "image" : "img/njRg-su6.jpg",
+      },
+      {
+
+        "id":6,
+        "name" : "Rodrigo Juaban, Jr",
+        "description" : "The guy who is noisy when playing a game. He always talk trash to his enemies in a game. Hot-temepered but if you get to know him, he is really a good guy.",
+        "image" : "img/ZiQaBxSo.jpg",
+      },
+      {
+
+        "id":7,
+        "name" : "Ceasar Lubaton",
+        "description" : "An extrovert kind of guy. Talks a lot and doesn't know when to stop. Every after class, he is the one i'm with since we have the same schedule.  ",
+        "image" : "img/Xr1Xj4Ru.jpg",
+      },
+      {
+        "id": 8,
+        "name" : "Reyman Caumanday",
+        "description" : "The Tagum guy. Every weekend, he always went to Tagum. If we have any group outing, he cannot join because he's in Tagum. He invited me once to join with him in his gym. My close firend during thrid year college.",
+        "image" : "img/CvYLQ9VVIAAErMi.jpg",
+      },
+      { "id":7,
+        "name" : "Deo Dexter Guillermo",
+        "description" : "The chickboy. Deo is known for charming many girls. Girls can run but cannot hide from him. He is like a predator stalking his prey",
+        "image" : "img/bgx088AJ.jpg",
+      },
+      { "id":9,
+        "name" : "Christian Jake Polpol",
+        "description" : "Tall, dark and kind is what they say. The guy who cannot control his body and dance all the time ,Even when we are eating his dancing. Every outing he is the main man. He organizes the outing. Since he is the one who have a car in our group, he gets to choose the location of the outings. Never trust him on secrets.  ",
+        "image" : "img/VtpejFIn.jpg",
+      },
+      ];
+    }
+
+    render(html, component){
+
+      component.innerHTML += html;
+    }
+
+    reRender(html, component){
+
+      component.innerHTML = html;
+    }
+
+    formDesign(){
+    let id = document.getElementById('kill');
+    let name =document.getElementById('kill2');
+    let description =document.getElementById('kill3');
+    let image =document.getElementById('kill4');
+
+
+      let form = {      
+        "id": id.value,
+        "name": name.value,
+        "description" : description.value,
+        "image": image.value,
+
+      };
+
+
+      this.form.push(form);
+
+      
+      id.value = name.value = description.value = image.value =  ''; 
+    } 
+
+    formDelete(key){
+      let r = this.form;
+      for(let i=0;i<r.length;i++){
+        if(r[i].id == key){
+          this.form.splice(i,1);
+          break;
+        }
+      }   
+      this.formList();
+    }
+
+    updateformApp(id){
+
+      id = id+1;
+      let formDummy = {
+        "id" :  id,
+
+        "name" : $('#formname').val(),
+        "description" : $('#formdes').val(),
+        "image" : $('#formimg').val(),
+    
+      }
+
+      let r = this.form;
+      for(let i=0;i<r.length;i++){
+        if(r[i].id == id){
+          r[i] = formDummy;
+          break;
+        }
+      }
+
+      this.formList();
+    }
+
+
+    SearchFormById(id){
+      let r = this.form;
+      for(let i=0;i<r.length;i++){
+        if(id==r[i].id){
+          return r[i];
+        }
+      }
+    } 
+
+    SearchForm(name){
+      let objects = [];
+      let r = this.form;
+      for(let i=0;i<r.length;i++){
+        let expr = (r[i].name.toUpperCase().indexOf(name.toUpperCase()) > -1);
+        if(expr){
+          objects.push(r[i]);
+        }
+      }
+      return objects;
+    }
+
+
+
+  }
+
+  */
