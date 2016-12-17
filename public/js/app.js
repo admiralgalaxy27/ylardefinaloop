@@ -223,10 +223,12 @@
       </div>
       </div>
 
-      <div class="footer-copyright">
+
+      <div class="footer-copyright"> 
       <center>
       <ul>&copy; Copyright 2016 Ylarde Productions</ul>
       <img class="center" src="img/aw.jpg" style="width:200spx;height:250px;"/> 
+      <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Ffacebook.com%2Fdecode-herokuylarde.herokuapp.com%2F&width=50&layout=box_count&action=like&show_faces=false&share=false&height=65&appId" width="50" height="65" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
       </center>  
       </div>
       </div>
@@ -317,6 +319,7 @@
         </div>
         <div class="card-action">
         <a href="#" onclick="component.viewForm(${r[i].id})">Show Details</a>
+        <div class="fb-like" data-href="http://decode-herokuylarde.herokuapp.com/" data-layout="box_count" data-action="like" data-show-faces="false" data-share="true"></div>
         </div>
         </div>
         </div>
@@ -492,6 +495,17 @@
 
     Homepage(){
       let html=`
+
+      <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+  <div class="fb-like" data-href="http://decode-herokuylarde.herokuapp.com/" data-layout="box_count" data-action="like" data-show-faces="false" data-share="true"></div>
 
       `;
       this.reRender(`
