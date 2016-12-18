@@ -319,7 +319,7 @@
         </div>
         <div class="card-action">
         <a href="#" onclick="component.viewForm(${r[i].id})">Show Details</a>
-        <div class="fb-like" data-href="http://decode-herokuylarde.herokuapp.com/" data-layout="box_count" data-action="like" data-show-faces="false" data-share="true"></div>
+        <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Ffacebook.com%2Fdecode-herokuylarde.herokuapp.com&width=60&layout=button_count&action=like&show_faces=false&share=false&height=21&appId" width="60" height="21" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
         </div>
         </div>
         </div>
