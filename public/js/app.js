@@ -38,7 +38,7 @@
         "id":6,
         "name" : "Cassava Tree",
         "description" : "Cassava is a nutty-flavored, starchy root vegetable or tuber. Native to South America, it's a major source of calories and carbs for people in developing countries. It is grown in tropical regions of the world because of its ability to withstand difficult growing conditions — in fact, it's one of the most drought-tolerant crops. Additionally, cassava root is well known as the raw material that's used to produce tapioca and garri, a product similar to tapioca. Cassava may be planted at any season, but it is better if the soil is always wet in the first 4-5 weeks after planting. ",
-        "image" : "img/Cassava.jpg",
+        "image" : "img/cassava.jpg",
       },
       {
 
