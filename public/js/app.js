@@ -5,63 +5,58 @@
       this.form = [
       {
         "id":1,
-        "name" : "Lyn Berdin",
-        "description" : "We met when we were in second year college at ADDU. My first impression with here was she was shy and intelligent. We became close when we were in fourth year college. Every time we hang out with our friends, we talk a lot. Since then I begin to my develop my feelings for here. I asked her out to join our family outing on March 2016. She agreed and on that evening, I asked her to be my girlfriend. Now, we are in our 6 months. :)",
-        "image" : "img/z.jpg",   
+        "name" : "Maize/Corn",
+        "description" : "It is also known as corn, is a large grain plant first domesticated by indigenous peoples in southern Mexico about 10,000 years ago. Maize has become a staple food in many parts of the world, with total production surpassing that of wheat or rice. However, not all of this maize is consumed directly by humans. Some of the maize production is used for corn ethanol, animal feed and other maize products, such as corn starch and corn syrup. The six major types of corn are dent corn, flint corn, pod corn, popcorn, flour corn, and sweet corn. The planting periods of corn in the Philippines are from April-May and September-October. The harvesting periods are from July-August and December-January.",
+        "image" : "img/corn.jpg",   
       },
       {
         "id":2,
-        "name" : "Reyner John Buenaluz",
-        "description" : "He is the man who has many nicknames. RJ, Rey, Reyn, Ner, J, John, reynskie, Arj. Those are what they call him. He is my oldest cousin. He likes to play DOTA 2 and to watch basketball games. Even though he seems to socialize a lot thus making him famous in the campus  ",
-        "image" : "img/v.jpg",
+        "name" : "Rice",
+        "description" : " Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia. It is the agricultural commodity with the third-highest worldwide production. Rice, a monocot, is normally grown as an annual plant. Rice cultivation is well-suited to countries and regions with low labor costs and high rainfall, as it is labor-intensive to cultivate and requires ample water. The planting periods of rice are from May-June and November-December. The harvesting periods are from March-April and September-October.",
+        "image" : "img/rice.jpg",
       },
       {
         "id":3,
-        "name" : "April Joy Buenaluz",
-        "description" : "She is one of my favorite cousin. She likes to share secrets with me and I feel comfortable having a conversation with her. We haven't had any serious conflicts because we get along with each other most of the time. ",
-        "image" : "img/a.jpg",
+        "name" : "Coconut Tree",
+        "description" : "The coconut tree (Cocos nucifera) is a member of the family Arecaceae (palm family) and the only species of the genus Cocos.The term coconut can refer to the whole coconut palm or the seed, or the fruit, which, botanically, is a drupe, not a nut. oconuts are known for their great versatility, as evidenced by many traditional uses, ranging from food to cosmetics.[4] They form a regular part of the diets of many people in the tropics and subtropics. The best planting period of coconut trees are from May with the onset of pre-monsoon rain. Coconuts are harvested at varying spans in a year. Coconuts mature for about 12 months. ",
+        "image" : "img/coconut.jpg",
       },
       {
         "id":4,
-        "name" : "Carl Adrian Buenaluz",
-        "description" : "The guy who just stays inside the house and doesn't want to get out. He plays his laptop all day. I think he became lonely when his mom went to Japan. Still, he is a good guy and is not hot-tempered.",
-        "image" : "img/b.jpg",
+        "name" : "Sugarcane",
+        "description" : "Sugarcane, or sugar cane, are several species of tall perennial true grasses of the genus Saccharum, tribe Andropogoneae, native to the warm temperate to tropical regions of South Asia and Melanesia, and used for sugar production. The world demand for sugar is the primary driver of sugarcane agriculture. Sugarcane predominantly grows in the tropical and subtropical regions. A sugarcane crop is sensitive to the climate, soil type, irrigation, fertilizers, insects, disease control, varieties, and the harvest period. The planting periods of sugarcane are from October to May. The harvesting periods are from April to October.",
+        "image" : "img/sugarcane.jpg",
       },
       {
         "id":5,
-        "name" : "Angelo Pereira",
-        "description" : "My classate in AdDU. He taught me some magnificent tricks in Dota. We just became friends in our last year in college and since then we always hang out with our friends. He is also very skilled in Dota. He joined many local tournaments and won. GGWP",
-        "image" : "img/njRg-su6.jpg",
+        "name" : "Lakatan Banana Tree",
+        "description" : "Lakatan bananas, also spelled Lacatan, are diploid banana cultivars from the Philippines. It is one of the most common banana cultivars in the Philippines, along with the Latundan and Saba bananas. Lakatan is the most popular dessert banana in the Philippines. It is more expensive than the more common Latundan and Cavendish bananas. Both Latundan and Lakatan, however, are preferred by Filipinos over Cavendish. They have higher β-Carotene content than other banana cultivars. Lakatan typically grow to a height of five to nine feet. The fruits can be harvested 8 to 12 months after planting.   ",
+        "image" : "img/banana.jpg",
       },
       {
 
         "id":6,
-        "name" : "Rodrigo Juaban, Jr",
-        "description" : "The guy who is noisy when playing a game. He always talk trash to his enemies in a game. Hot-temepered but if you get to know him, he is really a good guy.",
-        "image" : "img/ZiQaBxSo.jpg",
+        "name" : "Cassava Tree",
+        "description" : "Cassava is a nutty-flavored, starchy root vegetable or tuber. Native to South America, it's a major source of calories and carbs for people in developing countries. It is grown in tropical regions of the world because of its ability to withstand difficult growing conditions — in fact, it's one of the most drought-tolerant crops. Additionally, cassava root is well known as the raw material that's used to produce tapioca and garri, a product similar to tapioca. Cassava may be planted at any season, but it is better if the soil is always wet in the first 4-5 weeks after planting. ",
+        "image" : "img/Cassava.jpg",
       },
       {
 
         "id":7,
-        "name" : "Ceasar Lubaton",
-        "description" : "An extrovert kind of guy. Talks a lot and doesn't know when to stop. Every after class, he is the one i'm with since we have the same schedule.  ",
-        "image" : "img/Xr1Xj4Ru.jpg",
+        "name" : "Pineapple Tree",
+        "description" : "The pineapple (Ananas comosus) is a tropical plant with an edible multiple fruit consisting of coalesced berries, also called pineapples, and the most economically significant plant in the Bromeliaceae family. Pineapples may be cultivated from a crown cutting of the fruit, possibly flowering in 5–10 months and fruiting in the following six months. Pineapples do not ripen significantly after harvest. Once rooted and planted, suckers will flower and produce fruit in 12 months. Rooted crowns will take 18 months to form fruit. For Hawaiian pineapples, the main fruiting season is from April to May. Pineapples grown in the Caribbean have two fruiting seasons, December through February and August through September. ",
+        "image" : "img/pineapple.jpg",
       },
       {
         "id": 8,
-        "name" : "Reyman Caumanday",
-        "description" : "The Tagum guy. Every weekend, he always went to Tagum. If we have any group outing, he cannot join because he's in Tagum. He invited me once to join with him in his gym. My close firend during thrid year college.",
-        "image" : "img/CvYLQ9VVIAAErMi.jpg",
+        "name" : "Mango Tree",
+        "description" : "Mangoes are juicy stone fruit (drupe) from numerous species of tropical trees belonging to the flowering plant genus Mangifera, cultivated mostly for their edible fruit. The majority of these species are found in nature as wild mangoes. The genus belongs to the cashew family Anacardiaceae. Mangoes are native to South Asia, from where the 'common mango' or 'Indian mango', Mangifera indica, has been distributed worldwide to become one of the most widely cultivated fruits in the tropics. Other Mangifera species (e.g. horse mango, Mangifera foetida) are also grown on a more localized basis. Mangoes are biennial bearer, fruits every two years.",
+        "image" : "img/mango.jpg",
       },
       { "id":7,
-        "name" : "Deo Dexter Guillermo",
-        "description" : "The chickboy. Deo is known for charming many girls. Girls can run but cannot hide from him. He is like a predator stalking his prey",
-        "image" : "img/bgx088AJ.jpg",
-      },
-      { "id":9,
-        "name" : "Christian Jake Polpol",
-        "description" : "Tall, dark and kind is what they say. The guy who cannot control his body and dance all the time ,Even when we are eating his dancing. Every outing he is the main man. He organizes the outing. Since he is the one who have a car in our group, he gets to choose the location of the outings. Never trust him on secrets.  ",
-        "image" : "img/VtpejFIn.jpg",
+        "name" : "Durian Tree",
+        "description" : "Durian is the fruit of several tree species belonging to the genus Durio. The name 'durian' is derived from the Malay languages word for duri or 'spike', a reference to the numerous spike protuberances of the fruit. n Thailand and Malaysia, peak harvest is between June and July; in Indonesia, October to February; and in the Philippines, August to September. However, it has been observed that harvest period varies with elevation and cultivar. Orchards in low elevations tend to produce fruits early. ",
+        "image" : "img/durian.jpg",
       },
       ];
     }
@@ -168,19 +163,19 @@
       let html = `
 
       <div class="carousel carousel-slider">
-      <a class="carousel-item" href="#one!"><img src="img/1.png"></a>
-      <a class="carousel-item" href="#two!"><img src="img/2.jpg"></a>
-      <a class="carousel-item" href="#three!"><img src="img/3.jpg"></a>
-      <a class="carousel-item" href="#four!"><img src="img/4.jpg"></a>
+      <a class="carousel-item" href="#one!"><img src="img/green1.png"></a>
+      <a class="carousel-item" href="#two!"><img src="img/green2.png"></a>
+      <a class="carousel-item" href="#three!"><img src="img/green3.jpg"></a>
+      <a class="carousel-item" href="#four!"><img src="img/green4.jpg"></a>
       </div>
       <nav>
       <div class="nav-wrapper  blue accent-2">
       <a href="#" ="component.formList()" class="brand-logo"> &nbsp&nbsp&nbsp&nbspWelcome! Get Started --></a></a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
       <li>
-      <li><a href="#" onclick="component.Homepage()">Home</a></li>
-      <li><a href="#" onclick="component.formList()">All Friends</a></li>  
-      <li><a href="#" onclick="component.latestForm()">Add Friend</a></li>
+      <li><a href="#" onclick="component.Homepage()">View Farm Layouts</a></li>
+      <li><a href="#" onclick="component.formList()">Crops and Trees</a></li>  
+      <li><a href="#" onclick="component.latestForm()">Add Crop/Tree</a></li>
       </ul>
 
 
@@ -204,14 +199,14 @@
       </div>
       <center>
       <div class="col l4 offset-l2 s12 ">
-      <h5 class="red-text ">Know your Friend App</h5>
+      <h5 class="red-text ">Agricultural Layout and Calculator App</h5>
 
       <ul>
-      <li><a class="black-text text-lighten-0" href="https://www.nba.com.ph"onclick="component.Homepage()">NBA</li>
-      <li><a class="black-text text-lighten-0" href="http://pba.com.ph"onclick="component.latestForm()">PBA</li>
-      <li><a class="black-text text-lighten-0" href="http://www.wwe.com/"onclick="component.formList()"">WWE</li>
-      <li><a class="black-text text-lighten-0" href="http://pba.com/"onclick="component.formList()"">Bowling</li>
-      <li><a class="black-text text-lighten-0" href="https://www.tennis.com"onclick="component.formList()"">Others</li>
+      <li><a class="black-text text-lighten-0" href="https://www.da.gov.ph/"onclick="component.Homepage()">Department of Agriculture</li>
+      <li><a class="black-text text-lighten-0" href="www.psa.gov.ph/"onclick="component.latestForm()">Philippine Statistics Office</li>
+      <li><a class="black-text text-lighten-0" href="daf.armm.gov.ph/"onclick="component.formList()"">ARMM Department Of Agriculture</li>
+      <li><a class="black-text text-lighten-0" href="www.davaocity.gov.ph/"onclick="component.formList()"">City Government of Davao</li>
+      <li><a class="black-text text-lighten-0" href="https://www.gov.ph/"onclick="component.formList()"">Others</li>
       </center>
 
 
@@ -226,8 +221,8 @@
 
       <div class="footer-copyright"> 
       <center>
-      <ul>&copy; Copyright 2016 Ylarde Productions</ul>
-      <img class="center" src="img/aw.jpg" style="width:200spx;height:250px;"/> 
+      <ul>&copy; Copyright 2017 Co-Developed by John Adriel Ylarde and Eper Punay</ul>
+      <img class="center" src="img/.jpg" style="width:200spx;height:250px;"/> 
       <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Ffacebook.com%2Fdecode-herokuylarde.herokuapp.com%2F&width=50&layout=box_count&action=like&show_faces=false&share=false&height=65&appId" width="50" height="65" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
       </center>  
       </div>
@@ -261,9 +256,9 @@
       </div>
       <div class="card-action small">   
 
-      <button onclick="component.updateForm(${r.id})" class="btn waves-effect waves-green">Edit</button>
-      <button onclick="component.formDelete(${r.id})" class="btn waves-effect waves-red">Remove</button>
-      <button onclick="component.formList()" class="btn waves-effect waves-yellow">Return</button>
+      <button onclick="component.updateForm(${r.id})" class="btn waves-effect waves-green">Create Layout</button>
+      <button onclick="component.formDelete(${r.id})" class="btn waves-effect waves-red">Calculate Profit</button>
+      <button onclick="component.formList()" class="btn waves-effect waves-yellow">Back</button>
 
       </div>            
       </div>     
@@ -319,7 +314,6 @@
         </div>
         <div class="card-action">
         <a href="#" onclick="component.viewForm(${r[i].id})">Show Details</a>
-        <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Ffacebook.com%2Fdecode-herokuylarde.herokuapp.com&width=60&layout=button_count&action=like&show_faces=false&share=false&height=21&appId" width="60" height="21" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
         </div>
         </div>
         </div>
@@ -435,7 +429,7 @@
       <label for="kill4" data-error="&times;Input Error" data-success="&#10004;Input Valid"><a class="black-text text-darken-5"> Enter Picture (LINK)</a></label>
       </div>
       <div align="center">
-      <button onclick="component.formList()" class="btn waves-effect waves-yellow">Return</button>
+      <button onclick="component.formList()" class="btn waves-effect waves-yellow">Back</button>
       <button onclick="component.formDesign()" class="btn waves-effect waves-green">Add</button>
       </div>
 

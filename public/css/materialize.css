@@ -18,7 +18,7 @@
 
 body {
 
- background:url(../img/snow.jpg);
+ background:url(../img/kuku.jpg);
 background-repeat:no-repeat;
 background-size:cover;
 background-attachment: fixed;
@@ -4497,8 +4497,10 @@ small {
 }
 
 .card .card-title {
+  color: #e51c23;
   font-size: 24px;
   font-weight: 300;
+  
 }
 
 .card .card-title.activator {
@@ -4612,7 +4614,7 @@ small {
 }
 
 .card .card-image .card-title {
-  color: #fff;
+  color: #ffffff;
   position: absolute;
   bottom: 0;
   left: 0;
