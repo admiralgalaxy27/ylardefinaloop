@@ -203,7 +203,7 @@
 
       <ul>
       <li><a class="black-text text-lighten-0" href="https://www.da.gov.ph/"onclick="component.Homepage()">Department of Agriculture</li>
-      <li><a class="black-text text-lighten-0" href="www.psa.gov.ph/"onclick="component.latestForm()">Philippine Statistics Office</li>
+      <li><a class="black-text text-lighten-0" href="https://www.psa.gov.ph/"onclick="component.latestForm()">Philippine Statistics Office</li>
       <li><a class="black-text text-lighten-0" href="daf.armm.gov.ph/"onclick="component.formList()"">ARMM Department Of Agriculture</li>
       <li><a class="black-text text-lighten-0" href="www.davaocity.gov.ph/"onclick="component.formList()"">City Government of Davao</li>
       <li><a class="black-text text-lighten-0" href="https://www.gov.ph/"onclick="component.formList()"">Others</li>
