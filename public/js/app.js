@@ -199,7 +199,7 @@
       </div>
       <center>
       <div class="col l4 offset-l2 s12 ">
-      <h5 class="red-text ">Agricultural Layout and Calculator App</h5>
+      <h5 class="red-text ">Agricultural Information Website</h5>
 
       <ul>
       <li><a class="black-text text-lighten-0" href="https://www.da.gov.ph/"onclick="component.Homepage()">Department of Agriculture</li>
@@ -221,7 +221,7 @@
 
       <div class="footer-copyright"> 
       <center>
-      <ul>&copy; Copyright 2017 Co-Developed by John Adriel Ylarde and Eper Punay</ul>
+      <ul>&copy; Copyrights Reserved 2018-2019 </ul>
       <img class="center" src="img/.jpg" style="width:200spx;height:250px;"/> 
       <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Ffacebook.com%2Fdecode-herokuylarde.herokuapp.com%2F&width=50&layout=box_count&action=like&show_faces=false&share=false&height=65&appId" width="50" height="65" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
       </center>  
@@ -256,8 +256,8 @@
       </div>
       <div class="card-action small">   
 
-      <button onclick="component.updateForm(${r.id})" class="btn waves-effect waves-green">Create Layout</button>
-      <button onclick="component.formDelete(${r.id})" class="btn waves-effect waves-red">Calculate Profit</button>
+      <button onclick="component.updateForm(${r.id})" class="btn waves-effect waves-green">Update</button>
+      <button onclick="component.formDelete(${r.id})" class="btn waves-effect waves-red">Delete</button>
       <button onclick="component.formList()" class="btn waves-effect waves-yellow">Back</button>
 
       </div>            
